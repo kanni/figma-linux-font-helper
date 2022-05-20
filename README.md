@@ -11,13 +11,8 @@
 
 Copy this in terminal
 
-<!-- curl https://raw.githubusercontent.com/ChugunovRoman/figma-linux-font-helper/master/res/install.sh | sudo bash -->
 ```bash
-curl -L https://tinyurl.com/rx4xsyh4 | bash
-```
-or:
-```bash
-curl -L https://raw.githubusercontent.com/Figma-Linux/figma-linux-font-helper/master/res/install.sh | bash
+curl -L https://raw.githubusercontent.com/louispotok/figma-linux-font-helper/master/res/install.sh | bash
 ```
 ## How it works
 
