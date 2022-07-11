@@ -12,7 +12,7 @@
 Copy this in terminal
 
 ```bash
-curl -L https://raw.githubusercontent.com/louispotok/figma-linux-font-helper/master/res/install.sh | bash
+curl -L https://raw.githubusercontent.com/kanni/figma-linux-font-helper/master/res/install.sh | bash
 ```
 ## How it works
 
